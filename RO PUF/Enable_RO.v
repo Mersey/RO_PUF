@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: CSIT
+// Engineer: James Moore
 // 
 // Create Date: 20.06.2024 10:54:11
 // Design Name: 
